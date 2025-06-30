@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC00F7&background=FFFFFF00&width=435&lines=Welcome+to+my+GitHub+profile!;Hi%2C+I'm+Ana+Clara%2C+a+tech+enthusiast+%E2%9C%A8;Always+learning%2C+always+building!+%F0%9F%9A%80+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-💻 I'm currently in the 5th semester of Computer Science.<br>
+💻 I'm starting the 6th semester of Computer Science.<br>
 🚀 Always eager to learn more about development and new technologies.<br>
 🎯 Passionate about Front-end, Back-end, and Full Stack development.<br>
-📌 Experienced in HTML, CSS, JavaScript and React <br>
+📌 Experienced in HTML, CSS, JavaScript and React.<br>
 🛠️ Familiar with Git, GitHub, and responsive design.<br>
 🎨 Exploring UI/UX and best practices in software development.<br>
 
