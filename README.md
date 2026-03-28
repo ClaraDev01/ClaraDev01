@@ -2,7 +2,9 @@
 
 <img src="CoffeeGif.gif" alt="coffee" width="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&pause=1000&color=F671F7&center=true&vCenter=true&width=500&height=80&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Welcome+to+my+GitHub+%F0%9F%A5%B0;FullStack+%7C+Freelancer)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F751A5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Welcome+to+my+GitHub+%F0%9F%A5%B0;FullStack+%7C+Freelancer)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,6 +13,8 @@
 I'm Ana Clara — a Fullstack Developer passionate about creating **purposeful digital experiences**.
 From robust APIs to responsive interfaces, I love building things that work **beautifully and completely**. 🌸
 Currently studying Computer Science and available for freelance projects.
+
+<br/>
 
 <div align="center">
 
@@ -27,7 +31,6 @@ Currently studying Computer Science and available for freelance projects.
 
 </div>
 
-<br/>
 
 ## 🌱 Currently
 
@@ -76,9 +79,10 @@ Currently studying Computer Science and available for freelance projects.
 
 <div align="center">
 
-<img src="FlowerGif.gif" alt="flower" width="400">
+<img src="FlowerGif.gif" alt="flower" width="300">
 
-</br>
+<br/>
+
 *Thanks for visiting! Let's build something amazing together.* 🌸
 
 </div>
