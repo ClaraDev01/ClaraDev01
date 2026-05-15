@@ -31,6 +31,7 @@ Currently studying Computer Science and available for freelance projects.
 
 </div>
 
+<br/>
 
 ## 🌱 Currently
 
@@ -57,6 +58,16 @@ Currently studying Computer Science and available for freelance projects.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=ClaraDev01&theme=omni&hide_border=true"/> &nbsp;&nbsp;&nbsp; <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ClaraDev01&theme=omni&hide_border=true&layout=compact"/>
 
 </div>
 
