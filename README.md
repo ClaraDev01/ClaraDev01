@@ -13,13 +13,13 @@
 <details open>
   <summary>🇺🇸 English</summary>
   <br>
-  Welcome to my GitHub! I'm Ana Clara, a Frontend Developer passionate about creating purposeful digital experiences. I enjoy transforming ideas into modern, responsive, and accessible interfaces, always focusing on clean code, user experience and attention to detail. Currently, I'm studying Computer Science while expanding my backend knowledge to become a FullStack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
+  Welcome to my GitHub! I'm Ana Clara, a Frontend Developer passionate about creating purposeful digital experiences. I enjoy transforming ideas into modern, responsive, and accessible interfaces, always focusing on clean code, user experience and attention to detail. Currently, I'm studying Computer Science while expanding my backend knowledge to become a Full Stack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
 </details>
 
 <details>
   <summary>🇧🇷 Português</summary>
   <br>
-  Bem-vindo(a) ao meu GitHub! Sou a Ana Clara, desenvolvedora frontend apaixonada por criar experiências digitais com propósito. Gosto de transformar ideias em interfaces modernas, responsivas e acessíveis, sempre priorizando código limpo, experiência do usuário e atenção aos detalhes. Atualmente, curso Ciência da Computação enquanto aprofundo meus conhecimentos em desenvolvimento backend para me tornar uma desenvolvedora FullStack. Também estou disponível para projetos freelancer e animada para colaborar em ideias significativas.
+  Bem-vindo(a) ao meu GitHub! Sou a Ana Clara, desenvolvedora frontend apaixonada por criar experiências digitais com propósito. Gosto de transformar ideias em interfaces modernas, responsivas e acessíveis, sempre priorizando código limpo, experiência do usuário e atenção aos detalhes. Atualmente, curso Ciência da Computação enquanto aprofundo meus conhecimentos em desenvolvimento backend para me tornar uma desenvolvedora Full Stack. Também estou disponível para projetos freelancer e animada para colaborar em ideias significativas.
 </details>
 
 <br/>
