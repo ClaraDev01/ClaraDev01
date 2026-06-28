@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
 
-I'm Ana Clara, a Frontend Developer passionate about creating **purposeful digital experiences**.
+I'm Ana Clara, a Frontend Developer passionate about creating purposeful digital experiences.
 I enjoy transforming ideas into modern, responsive and accessible interfaces, always focusing on clean code, user experience and attention to detail.
 Currently, I'm studying Computer Science while expanding my backend knowledge to become a Full Stack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
 
