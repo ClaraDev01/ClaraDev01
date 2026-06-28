@@ -8,11 +8,19 @@
 
 </div>
 
-## 🌸 About Me
+## 🌸 About Me / Sobre Mim
 
-I'm Ana Clara, a Frontend Developer passionate about creating purposeful digital experiences.
-I enjoy transforming ideas into modern, responsive and accessible interfaces, always focusing on clean code, user experience and attention to detail.
-Currently, I'm studying Computer Science while expanding my backend knowledge to become a Full Stack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
+<details open>
+  <summary>🇺🇸 English</summary>
+  <br>
+  I'm Ana Clara, a Frontend Developer passionate about creating purposeful digital experiences. I enjoy transforming ideas into modern, responsive and accessible interfaces, always focusing on clean code, user experience and attention to detail. Currently, I'm studying Computer Science while expanding my backend knowledge to become a Full Stack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
+</details>
+
+<details>
+  <summary>🇧🇷 Português</summary>
+  <br>
+  Sou a Ana Clara, desenvolvedora frontend apaixonada por criar experiências digitais com propósito. Gosto de transformar ideias em interfaces modernas, responsivas e acessíveis, sempre priorizando código limpo, experiência do usuário e atenção aos detalhes. Atualmente, curso Ciência da Computação enquanto amplio meus conhecimentos em backend para me tornar uma desenvolvedora Full Stack. Também estou disponível para projetos freelancer e animada para colaborar em ideias significativas.
+</details>
 
 <br/>
 
@@ -27,7 +35,6 @@ Currently, I'm studying Computer Science while expanding my backend knowledge to
 ![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-c084fc?style=flat)
 ![Lang](https://img.shields.io/badge/PT%20%7C%20EN-a78bfa?style=flat)
 ![Student](https://img.shields.io/badge/CS%20Student-f472b6?style=flat)
-![AI](https://img.shields.io/badge/AI%20Enthusiast-e879f9?style=flat)
 
 </div>
 
