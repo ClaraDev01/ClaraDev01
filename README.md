@@ -4,15 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F751A5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Welcome+to+my+GitHub+%F0%9F%A5%B0;FullStack+%7C+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F751A5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Welcome+to+my+GitHub+%F0%9F%A5%B0;Frontend+Developer+%7C+Freelancer)](https://git.io/typing-svg)
 
 </div>
 
 ## 🌸 About Me
 
-I'm Ana Clara — a Fullstack Developer passionate about creating **purposeful digital experiences**.
-From robust APIs to responsive interfaces, I love building things that work **beautifully and completely**. 🌸
-Currently studying Computer Science and available for freelance projects.
+I'm Ana Clara, a Frontend Developer passionate about creating **purposeful digital experiences**.
+I enjoy transforming ideas into modern, responsive and accessible interfaces, always focusing on clean code, user experience and attention to detail.
+Currently, I'm studying Computer Science while expanding my backend knowledge to become a Full Stack Developer. I'm also available for freelance projects and excited to collaborate on meaningful ideas.
 
 <br/>
 
@@ -36,30 +36,43 @@ Currently studying Computer Science and available for freelance projects.
 ## 🌱 Currently
 
 - 🎓 Studying **Computer Science** @ Estácio (7th semester)
-- 💻 Building **fullstack web projects** and landing pages
-- 🤖 Exploring **AI integrations** in real applications
-- ⚡ Fun fact: I debug best with coffee in hand ☕
+- 💻 Building **responsive websites, landing pages and frontend applications**
+- 🤖 Exploring **AI integrations** in real-world applications
+- ☕ Fun fact: I debug best with coffee in hand
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+### ⚙️ Backend (Learning)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+### 🛠 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 <br/>
 
