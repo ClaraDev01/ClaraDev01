@@ -19,7 +19,7 @@
 <details>
   <summary>🇧🇷 Português</summary>
   <br>
-  Bem-vindo(a) ao meu GitHub! Sou a Ana Clara, Desenvolvedora Full Stack apaixonada por criar experiências digitais com propósito. Gosto de construir tanto interfaces responsivas e acessíveis quanto lógica de back-end sólida, de front-ends em React a APIs em Node.js com PostgreSQL, sempre priorizando código limpo e atenção aos detalhes. Atualmente curso Ciência da Computação."
+  Bem-vindo(a) ao meu GitHub! Sou a Ana Clara, Desenvolvedora Full Stack apaixonada por criar experiências digitais com propósito. Gosto de construir tanto interfaces responsivas e acessíveis quanto lógica de back-end sólida, de front-ends em React a APIs em Node.js com PostgreSQL, sempre priorizando código limpo e atenção aos detalhes. Atualmente curso Ciência da Computação.
 </details>
 
 <br/>
