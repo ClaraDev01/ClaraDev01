@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F751A5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F751A5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ana+Clara+%F0%9F%92%95;Front-end+Developer+%7C+Freelancer)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,13 +13,27 @@
 <details open>
   <summary>🇺🇸 English</summary>
   <br>
-  Welcome to my GitHub! I'm Ana Clara, a Full Stack Developer passionate about creating purposeful digital experiences. I enjoy building both responsive, accessible interfaces and solid back-end logic, from React front-ends to Node.js APIs with PostgreSQL, always focusing on clean code and attention to detail. Currently studying Computer Science.
+  
+Welcome to my GitHub!
+
+I'm Ana Clara, a Front-end Developer passionate about creating purposeful digital experiences.
+
+I enjoy transforming ideas into modern, responsive, and accessible interfaces while focusing on clean code, user experience, and attention to detail.
+
+Currently, I'm studying Computer Science while expanding my back-end knowledge to become a Full Stack Developer. I'm also exploring Artificial Intelligence and open to freelance opportunities.
 </details>
 
 <details>
   <summary>🇧🇷 Português</summary>
   <br>
-  Bem-vindo(a) ao meu GitHub! Sou a Ana Clara, Desenvolvedora Full Stack apaixonada por criar experiências digitais com propósito. Gosto de construir tanto interfaces responsivas e acessíveis quanto lógica de back-end sólida, de front-ends em React a APIs em Node.js com PostgreSQL, sempre priorizando código limpo e atenção aos detalhes. Atualmente curso Ciência da Computação.
+  
+Bem-vindo(a) ao meu GitHub!
+
+Sou a Ana Clara, desenvolvedora Front-end apaixonada por criar experiências digitais com propósito.
+
+Gosto de transformar ideias em interfaces modernas, responsivas e acessíveis, sempre priorizando código limpo, experiência do usuário e atenção aos detalhes.
+
+Atualmente curso Ciência da Computação enquanto aprofundo meus conhecimentos em desenvolvimento Back-end para me tornar uma desenvolvedora Full Stack. Também estou explorando Inteligência Artificial e aberta a oportunidades como freelancer.
 </details>
 
 <br/>
@@ -31,14 +45,17 @@
 
 <br/>
 
-![Frontend](https://img.shields.io/badge/Frontend%20Developer-f472b6?style=flat)
-![Backend](https://img.shields.io/badge/Backend%20Developer-f472b6?style=flat)
-![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-c084fc?style=flat)
+![Freelance](https://img.shields.io/badge/Open%20to%20Freelance-FF69B4?style=flat)
+![Frontend](https://img.shields.io/badge/Front%20end%20Developer-f472b6?style=flat)
+![AI](https://img.shields.io/badge/AI%20Enthusiast-c084fc?style=flat)
+![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-d8b4fe?style=flat)
 ![Lang](https://img.shields.io/badge/PT%20%7C%20EN-a78bfa?style=flat)
 
 </div>
 
 <div align="center">
+
+💻 **Open to Front-end freelance opportunities.**
 
 ✨ **Building modern web experiences, one project at a time.**
 
@@ -49,8 +66,9 @@
 ## 🌱 Currently
 
 - 🎓 Studying **Computer Science** @ Estácio
-- 💻 Building **Full Stack applications**
-- 🤖 Exploring **AI integrations** in real-world applications
+- 💻 Building **responsive websites, landing pages, and front-end applications**
+- 📚 Expanding my **Back-end skills** to become a Full Stack Developer
+- 🤖 Exploring AI and modern web technologies
 - ☕ Fun fact: I debug best with coffee in hand
 
 <br/>
@@ -75,7 +93,7 @@
 
 <br/>
 
-### ⚙️ Backend
+### ⚙️ Back-end • Learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
