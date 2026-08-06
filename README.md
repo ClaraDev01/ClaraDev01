@@ -16,11 +16,11 @@
   
 Welcome to my GitHub!
 
-I'm Ana Clara, a Front-end Developer passionate about creating purposeful digital experiences.
+I'm Ana Clara, a Full Stack Developer with a focus on Frontend, passionate about creating purposeful digital experiences.
 
 I enjoy transforming ideas into modern, responsive, and accessible interfaces while focusing on clean code, user experience, and attention to detail.
 
-Currently, I'm studying Computer Science while expanding my back-end knowledge to become a Full Stack Developer. I'm also exploring Artificial Intelligence and open to freelance opportunities.
+I'm studying Computer Science and open to freelance opportunities.
 </details>
 
 <details>
@@ -29,11 +29,11 @@ Currently, I'm studying Computer Science while expanding my back-end knowledge t
   
 Bem-vindo(a) ao meu GitHub!
 
-Sou a Ana Clara, desenvolvedora Front-end apaixonada por criar experiências digitais com propósito.
+Sou a Ana Clara, desenvolvedora Full Stack com foco em Frontend, apaixonada por criar experiências digitais com propósito.
 
 Gosto de transformar ideias em interfaces modernas, responsivas e acessíveis, sempre priorizando código limpo, experiência do usuário e atenção aos detalhes.
 
-Atualmente curso Ciência da Computação enquanto aprofundo meus conhecimentos em desenvolvimento Back-end para me tornar uma desenvolvedora Full Stack. Também estou explorando Inteligência Artificial e aberta a oportunidades como freelancer.
+Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 </details>
 
 <br/>
@@ -46,7 +46,7 @@ Atualmente curso Ciência da Computação enquanto aprofundo meus conhecimentos 
 <br/>
 
 ![Freelance](https://img.shields.io/badge/Open%20to%20Freelance-FF69B4?style=flat)
-![Frontend](https://img.shields.io/badge/Front%20end%20Developer-f472b6?style=flat)
+![Frontend](https://img.shields.io/badge/Full%20Stack%20%7C%20Frontend%20Focus-f472b6?style=flat)
 ![AI](https://img.shields.io/badge/AI%20Enthusiast-c084fc?style=flat)
 ![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-d8b4fe?style=flat)
 ![Lang](https://img.shields.io/badge/PT%20%7C%20EN-a78bfa?style=flat)
@@ -67,7 +67,6 @@ Atualmente curso Ciência da Computação enquanto aprofundo meus conhecimentos 
 
 - 🎓 Studying **Computer Science** @ Estácio
 - 💻 Building **responsive websites, landing pages, and front-end applications**
-- 📚 Expanding my **Back-end skills** to become a Full Stack Developer
 - 🤖 Exploring AI and modern web technologies
 - ☕ Fun fact: I debug best with coffee in hand
 
