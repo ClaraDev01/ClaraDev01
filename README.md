@@ -46,7 +46,7 @@ Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 <br/>
 
 ![Freelance](https://img.shields.io/badge/Open%20to%20Freelance-FF69B4?style=flat)
-![Frontend](https://img.shields.io/badge/Full%20Stack%20%7C%20Frontend%20Focus-f472b6?style=flat)
+![Frontend](https://img.shields.io/badge/Frontend%20Focused-f472b6?style=flat)
 ![AI](https://img.shields.io/badge/AI%20Enthusiast-c084fc?style=flat)
 ![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-d8b4fe?style=flat)
 ![Lang](https://img.shields.io/badge/PT%20%7C%20EN-a78bfa?style=flat)
@@ -55,7 +55,7 @@ Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 
 <div align="center">
 
-💻 **Open to Front-end freelance opportunities.**
+💻 **Open to freelance projects.**
 
 ✨ **Building modern web experiences, one project at a time.**
 
@@ -67,46 +67,32 @@ Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 
 - 🎓 Studying **Computer Science** @ Estácio
 - 💻 Building **responsive websites, landing pages, and front-end applications**
-- 🤖 Exploring AI and modern web technologies
+- 🤖 Exploring **AI and modern web technologies**
+- 📚 Strengthening my **backend and software development skills**
 - ☕ Fun fact: I debug best with coffee in hand
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 💻 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 
-<br/>
 
 ### 🎨 Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma" />
 
-<br/>
 
 ### ⚙️ Back-end • Learning
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,java,postgres,mongodb" />
 
-<br/>
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 <br/>
 
@@ -120,16 +106,11 @@ Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 
 <br/>
 
-## 🐍 My Contributions
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaraDev01/ClaraDev01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaraDev01/ClaraDev01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClaraDev01/ClaraDev01/output/github-contribution-grid-snake.svg">
-</picture>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaraDev01&bg_color=0d1117&color=f472b6&title_color=F751A5&line=d946a8&point=F751A5&area_color=c026d3&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
