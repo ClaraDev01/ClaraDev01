@@ -106,13 +106,6 @@ Curso Ciência da Computação e estou aberta a oportunidades como freelancer.
 
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaraDev01&bg_color=0d1117&color=f472b6&title_color=F751A5&line=d946a8&point=F751A5&area_color=c026d3&area=true&hide_border=true" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
